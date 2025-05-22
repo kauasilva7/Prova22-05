@@ -16,8 +16,14 @@ function adicionarLog(nomeAluno) {
     });
 }
 
+adicionarLog("Ana");
 
-adicionarLog("Kauã Silva");
+
+
+
+
+
+
 
 
 
